@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello and good morning
+=======
+Hello,  good morning
+>>>>>>> e9edbd0 (test commit)
